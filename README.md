@@ -4,12 +4,12 @@ cli CDPATH manipulation tool
 ## Usage 
 
 ```
-./shortcut.sh add ~/dog dog 
-./shortcut.sh . 
-./shortcut.sh remove all
-./shortcut.sh remove __dog
+./shortcut.sh add ~/dog dog  #adds folder dog with the custom name dog 
+./shortcut.sh . #adds current directory. Will use basename
+./shortcut.sh remove all #removes all shortcuts
+./shortcut.sh remove __dog #removes particular shortcut
 
-cd __<TAB> 
+cd __<TAB> #autocomplete shortcuts
 ```
 
 Notes: 
