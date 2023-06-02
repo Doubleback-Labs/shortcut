@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 # Author:  TJ Gillis <tj@doublebacklabs.com>
 #
