@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But not these files...
+!/.gitignore
+
+!LICENSE
+!README
+!shortcut.sh
+
+!README.md
+!LICENSE
+
+# ...even if they are in subdirectories
+!*/
